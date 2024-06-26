@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "id": "4",
+      "content": "Get the data from json using axios",
+      "important": true
+    },
+    {
+      "id": "8355",
+      "content": "Post is used to add Data",
+      "important": true
+    },
+    {
+      "id": "7503",
+      "content": "xafadena waxa jogi jiray nini ladahaho rize oo kubada jaclaaa",
+      "important": true
+    },
+    {
+      "id": "b2d8",
+      "important": false
+    },
+    {
+      "id": "f8e3",
+      "content": "getting data from a server is cool",
+      "important": false
+    },
+    {
+      "id": "8833",
+      "content": "Abdigafar got a Dv ",
+      "important": false
+    },
+    {
+      "id": "c95f",
+      "content": "I love React",
+      "important": true
+    },
+    {
+      "id": "0bd6",
+      "content": "suiiiiiiiiiiii",
+      "important": true
+    }
+  ]
+}
